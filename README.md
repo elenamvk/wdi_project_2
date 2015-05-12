@@ -1,5 +1,5 @@
 
-#2nd GROUP PROJECT: :coffee:  :sparkles: Coffeeshop app :coffee:  :sparkles: :coffee:   :sparkles:
+#2nd GROUP PROJECT: :coffee::sparkles: Coffeeshop app :coffee:  :sparkles::coffee::sparkles:
 
 ####see the app: http://desolate-scrubland-1261.herokuapp.com/
 
