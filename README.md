@@ -1,6 +1,5 @@
-WORK IN PROGRESS
 
-#2st GROUP PROJECT: Coffee Shops app :coffee:  :sparkles:
+#2st GROUP PROJECT: :coffee:  :sparkles: Coffeeshop app :coffee:  :sparkles: :coffee:  :sparkles: :coffee:  :sparkles:
 
 ####see the app: http://desolate-scrubland-1261.herokuapp.com/
 
