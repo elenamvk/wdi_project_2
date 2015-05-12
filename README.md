@@ -99,18 +99,18 @@ END
     
 END
 
-###modules:
+##modules:
 
 ![Image of modules]
 (https://generalassembly.mybalsamiq.com/mockups/3074699.png?key=b99c20f3c046af6b4ac46bb9ccb764cd33a3be6c)
 
-###wireframes:
+##wireframes:
 
 ![Image of wireframing]
 (https://generalassembly.mybalsamiq.com/mockups/3074639.png?key=b99c20f3c046af6b4ac46bb9ccb764cd33a3be6c)
 
 
-###Screenshots:
+##Screenshots:
 
 #####see the app: ~http://desolate-scrubland-1261.herokuapp.com/~
 
@@ -127,7 +127,7 @@ END
 ![Image of wireframing]
 (https://trello-attachments.s3.amazonaws.com/55525a2a0d0fc5c68be072e7/1392x912/e51130ad3699fa7e907817a742c758e5/Screen_Shot_2015-05-12_at_20.51.35.png)
 
-###special mention: users' reactions
+##special mention: users' reactions
 
 I personally launched the app amongst my tumblr contacts, and here's a couple of reactions!
 
