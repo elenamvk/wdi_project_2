@@ -11,7 +11,7 @@
   _Trello_: https://trello.com/b/jKZHD41z/wdi-2-prj-cheryl-james-elena<br>
   
 
-###scope:
+###Scope:
 
       I - user registration <br>
       II - cafés registering <br>
@@ -32,7 +32,7 @@ _haml_; <br>
 _sass (bourbon)_; <br>
 _mobile responsive styling_; <br>
 
-###benchmarking:
+###Benchmarking:
 
 ![Image of benchmarking]
 (https://trello-attachments.s3.amazonaws.com/55439596a5ff4e0ea1c386f2/1280x800/332b36b69136418a16e286def9cfa7ba/Screen_Shot_2015-05-02_at_12.41.03.png)
@@ -40,7 +40,7 @@ _mobile responsive styling_; <br>
 ![Image of benchmarking]
 (https://trello-attachments.s3.amazonaws.com/55439596a5ff4e0ea1c386f2/1280x800/4d6747eb14dabe18b57f01aaba74fecd/Screen_Shot_2015-05-02_at_12.42.32.png)
 
-###user stories:
+###User stories:
 
 
     Persona no.1: name: Peter
@@ -99,12 +99,12 @@ END
     
 END
 
-##modules:
+##Modules:
 
 ![Image of modules]
 (https://generalassembly.mybalsamiq.com/mockups/3074699.png?key=b99c20f3c046af6b4ac46bb9ccb764cd33a3be6c)
 
-##wireframes:
+##Wireframes:
 
 ![Image of wireframing]
 (https://generalassembly.mybalsamiq.com/mockups/3074639.png?key=b99c20f3c046af6b4ac46bb9ccb764cd33a3be6c)
@@ -127,7 +127,7 @@ END
 ![Image of wireframing]
 (https://trello-attachments.s3.amazonaws.com/55525a2a0d0fc5c68be072e7/1392x912/e51130ad3699fa7e907817a742c758e5/Screen_Shot_2015-05-12_at_20.51.35.png)
 
-##special mention: users' reactions
+##Special mention: users' reactions
 
 I personally launched the app amongst my tumblr contacts, and here's a couple of reactions!
 
