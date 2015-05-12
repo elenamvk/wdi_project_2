@@ -1,12 +1,16 @@
 WORK IN PROGRESS
 
-#2st GROUP PROJECT: Coffee Shops app
+#2st GROUP PROJECT: Coffee Shops app :coffee:  :sparkles:
+
+####see the app: http://desolate-scrubland-1261.herokuapp.com/
 
 ##Preparation:
 
   _Method_: agile;<br>
   _Time available_: 1 week;<br>
-  _Team_: three developers.<br>
+  _Team_: three developers;<br>
+  _Trello_: https://trello.com/b/jKZHD41z/wdi-2-prj-cheryl-james-elena<br>
+  
 
 ###scope:
 
@@ -16,24 +20,25 @@ WORK IN PROGRESS
       IV - map of cafes <br><br>
 
 #####Necessary:
-~user registration~: devise/oauth
-~pictures upload~: carrierwave
-~cafes adding~: google APIs, autocomplete
-~qualities of cafes~: boxes to be ticked of/tags
-~reviews~: cancancan to enable users to add user reviews (commentator maybe?), user ratings 0/5
+_user registration_: devise/oauth <br>
+_pictures upload_: carrierwave <br>
+_cafes adding_: google APIs, autocomplete <br>
+_qualities of cafes_: boxes to be ticked of/tags <br>
+_reviews_: cancancan to enable users to add user reviews (commentator maybe?), user ratings 0/5 <br>
+<br>
+Plus:<br>
+<br>
 
-Plus:
-
-~haml~;
-~sass (bourbon)~;
-~mibile responsive styling~;
+_haml_; <br>
+_sass (bourbon)_; <br>
+_mobile responsive styling_; <br>
 
 ###benchmarking:
 
-![Image of modules]
+![Image of benchmarking]
 (https://trello-attachments.s3.amazonaws.com/55439596a5ff4e0ea1c386f2/1280x800/332b36b69136418a16e286def9cfa7ba/Screen_Shot_2015-05-02_at_12.41.03.png)
 
-![Image of modules]
+![Image of benchmarking]
 (https://trello-attachments.s3.amazonaws.com/55439596a5ff4e0ea1c386f2/1280x800/4d6747eb14dabe18b57f01aaba74fecd/Screen_Shot_2015-05-02_at_12.42.32.png)
 
 ###user stories:
@@ -98,7 +103,7 @@ END
 ###modules:
 
 ![Image of modules]
-(https://trello-attachments.s3.amazonaws.com/55522eb15d17b882d12dab1e/2706x2268/d00ed6e4395a1a21775fd6e013fa4ed1/classes_and_associations.png)
+(https://generalassembly.mybalsamiq.com/mockups/3074699.png?key=b99c20f3c046af6b4ac46bb9ccb764cd33a3be6c)
 
 ###wireframes:
 
@@ -108,23 +113,30 @@ END
 
 ###Screenshots:
 
-![Image of wireframing]
-(https://trello-attachments.s3.amazonaws.com/55522eb15d17b882d12dab1e/1392x912/787008758ca46eb591da25348260fae0/Screen_Shot_2015-05-12_at_17.33.04.png)
+#####see the app: ~http://desolate-scrubland-1261.herokuapp.com/~
+
 
 ![Image of wireframing]
-(https://trello-attachments.s3.amazonaws.com/55522eb15d17b882d12dab1e/1392x912/7ddd0cf3ba34a2ed33ddb1673a3777fa/Screen_Shot_2015-05-12_at_17.34.20.png)
+(https://trello-attachments.s3.amazonaws.com/55525a2a0d0fc5c68be072e7/1392x912/fd54cad0aeb286e5f670cca780524807/Screen_Shot_2015-05-12_at_20.49.55.png)
 
 ![Image of wireframing]
-(https://trello-attachments.s3.amazonaws.com/55522eb15d17b882d12dab1e/1392x912/b46f3e400e20496ceed1713fdd9957f6/Screen_Shot_2015-05-12_at_17.34.01.png)
+(https://trello-attachments.s3.amazonaws.com/55525a2a0d0fc5c68be072e7/1392x912/78206a0ac801d6d39e860b8784dd7289/Screen_Shot_2015-05-12_at_20.52.17.png)
 
 ![Image of wireframing]
-(https://trello-attachments.s3.amazonaws.com/55522eb15d17b882d12dab1e/1392x912/02ffaff54783e6c01c845b8fdb7d38bd/Screen_Shot_2015-05-12_at_17.33.36.png)
-
-###special mention: my code scrapbook
-
-As a way to keep track of what i was doing and the errors i solved i took note of every advancement.
+(https://trello-attachments.s3.amazonaws.com/55525a2a0d0fc5c68be072e7/1392x912/ef1d16eb70615fe0ffc854bb04897db9/Screen_Shot_2015-05-12_at_20.56.11.png)
 
 ![Image of wireframing]
-(https://trello-attachments.s3.amazonaws.com/55522eb15d17b882d12dab1e/1158x774/7cca25da0820fb682323766bd7d3ccf8/Screen_Shot_2015-05-12_at_17.50.45.png)
+(https://trello-attachments.s3.amazonaws.com/55525a2a0d0fc5c68be072e7/1392x912/e51130ad3699fa7e907817a742c758e5/Screen_Shot_2015-05-12_at_20.51.35.png)
+
+###special mention: users' reactions
+
+I personally launched the app amongst my tumblr contacts, and here's a couple of reactions!
+
+![Image of reactions]
+(https://trello-attachments.s3.amazonaws.com/554c856be97134351122f5f1/561x82/592b5ca852502c936a6e7e2938a78148/Screen_Shot_2015-05-08_at_10.42.35.png)
+![Image of reactions]
+(https://trello-attachments.s3.amazonaws.com/554c856be97134351122f5f1/607x176/dfa38118b4f81518e39d4ca5b550fb50/Screen_Shot_2015-05-08_at_10.42.21.png)
+![Image of reactions]
+(https://trello-attachments.s3.amazonaws.com/554c856be97134351122f5f1/555x68/bd94d05c6ead3de0f35343bb167b0371/Screen_Shot_2015-05-08_at_10.41.57.png)
 
 ####Thank you for reading!
