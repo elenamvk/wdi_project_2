@@ -13,10 +13,10 @@
 
 ###Scope:
 
-      I - user registration <br>
-      II - cafés registering <br>
-      III - rating the cafés <br>
-      IV - map of cafes <br><br>
+      I - user registration 
+      II - cafés registering 
+      III - rating the cafés 
+      IV - map of cafes 
 
 #####Necessary:
 _user registration_: devise/oauth <br>
