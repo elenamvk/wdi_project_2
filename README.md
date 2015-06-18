@@ -1,6 +1,8 @@
 
 #2nd GROUP PROJECT: :coffee::sparkles: Coffeeshop app :coffee:  :sparkles::coffee::sparkles:
 
+[![Code Climate](https://codeclimate.com/github/elenamvk/wdi_project_2/badges/gpa.svg)](https://codeclimate.com/github/elenamvk/wdi_project_2)
+
 ####see the app: http://desolate-scrubland-1261.herokuapp.com/
 
 ##Preparation:
